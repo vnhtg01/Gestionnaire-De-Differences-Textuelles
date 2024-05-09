@@ -7,7 +7,7 @@
 5. Conclusion
 
 ## I. Introduction:
-Notre projet développe une interface interactive destinée à comparer deux
+Notre projet développe une interface interactive en **JAVA/JAVAFX** destinée à comparer deux
 versions d'un texte, facilitant ainsi la fusion des modifications. Cet outil est
 particulièrement utile dans les contextes d'écriture collaborative où les modifications
 peuvent inclure des ajouts, des suppressions, et des remplacements. L'objectif est
